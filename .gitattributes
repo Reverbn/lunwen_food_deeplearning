@@ -1,3 +1,0 @@
-*.zip filter=lfs diff=lfs merge=lfs -text
-D:/Experiment/** filter=lfs diff=lfs merge=lfs -text
-D:/Experiment1/Experiment1/** filter=lfs diff=lfs merge=lfs -text
